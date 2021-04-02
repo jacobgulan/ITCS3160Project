@@ -1,5 +1,3 @@
-# ITCS3160Project
-
 ## <b>Introduction</b>
 
 The popularity of food delivery services has proliferated over the past few years with the pandemic lending hand to its rise. It’s expected that, even as life normalizes, the daily use of food delivery services will remain. Students are one of the main consumers of food delivery services. To ensure safety and health, some universities are considering devising their own campus delivery system.
@@ -17,3 +15,8 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 5. The resturants have to be approved first before being added to the database, the information will require their location, ID, schedule, and a link to a website
 6. Rating system needs to be added
 7. The database will have valuable nutrition information and eating habits
+
+
+## <b>EERD Diagram</b>
+
+![Screenshot (138)](https://user-images.githubusercontent.com/81653751/113455513-d292ff00-93d8-11eb-99bd-5b4caffe302d.png)
