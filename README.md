@@ -8,3 +8,12 @@ The popularity of food delivery services has proliferated over the past few year
 
 Using a test database from “Team Mavericks,” our group plans to enhance this database to include a rating system for delivery drivers and restaurants. Our group will also be refining the database to follow specified business rules. This project is an extension of the database and will not support a fully functioning model.
 
+## <b>Business Rules</b>
+
+1. The people have accounts in the system with their ID, name, email , cellphone number. 
+2. There are specific locations on campus where the food can be delivered
+3. People can also be the delivery drivers and they have their license number, date they were hired and ratings.
+4. Theres a fee of $5 for each delivery,  An individual delivery is tied to one and only one person, the order is for one resturant only. There will need to be a total price, delivery charge, and driver delivery time
+5. The resturants have to be approved first before being added to the database, the information will require their location, ID, schedule, and a link to a website
+6. Rating system needs to be added
+7. The database will have valuable nutrition information and eating habits
