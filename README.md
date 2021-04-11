@@ -1,3 +1,4 @@
+
 ## <b>Introduction</b>
 
 The popularity of food delivery services has proliferated over the past few years with the pandemic lending hand to its rise. It’s expected that, even as life normalizes, the daily use of food delivery services will remain. Students are one of the main consumers of food delivery services. To ensure safety and health, some universities are considering devising their own campus delivery system.
@@ -19,7 +20,7 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 
 ## <b>EERD Diagram</b>
 
-![Screenshot (138)](https://user-images.githubusercontent.com/81653751/113455513-d292ff00-93d8-11eb-99bd-5b4caffe302d.png)
+![Updated EERD Diagram](https://user-images.githubusercontent.com/37620953/114289849-1d4fef00-9a49-11eb-8034-d1fc9b5420c4.png)
 
 
 ## <b>Use Case</b>
