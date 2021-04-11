@@ -20,7 +20,7 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 
 ## <b>EERD Diagram</b>
 
-![Updated EERD Diagram](https://user-images.githubusercontent.com/37620953/114289849-1d4fef00-9a49-11eb-8034-d1fc9b5420c4.png)
+![UpdatedERDDeliverable3](https://user-images.githubusercontent.com/78045412/114319999-db26bc00-9ae1-11eb-9195-a6cb32954c34.png)
 
 
 ## <b>Use Case</b>
