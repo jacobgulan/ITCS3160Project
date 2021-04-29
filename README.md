@@ -35,3 +35,7 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 ![Screenshot (135)](https://user-images.githubusercontent.com/81653751/113455715-5cdb6300-93d9-11eb-95d5-c623b5cbbf53.png)
 ![Screenshot (136)](https://user-images.githubusercontent.com/81653751/113455716-5e0c9000-93d9-11eb-885c-bf88db227d32.png)
 ![Screenshot (137)](https://user-images.githubusercontent.com/81653751/113455722-61078080-93d9-11eb-8024-f0bf24f334a6.png)
+
+
+## <b>Advanced View</b>
+![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
