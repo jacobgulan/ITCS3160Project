@@ -37,5 +37,9 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 ![Screenshot (137)](https://user-images.githubusercontent.com/81653751/113455722-61078080-93d9-11eb-8024-f0bf24f334a6.png)
 
 
+## <b>Stored Procedure</b>
+![StoredProcedure](https://user-images.githubusercontent.com/78045412/116761793-927a6880-a9e6-11eb-99f4-4b59cb0d49ed.png)
+
+
 ## <b>Advanced View</b>
 ![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
