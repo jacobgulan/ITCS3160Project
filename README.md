@@ -43,5 +43,5 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 
 ## <b>Advanced View</b>
 ![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
-Screen Shot 2021-05-04 at 2.29.18 PM![image](https://user-images.githubusercontent.com/81654604/117052058-43ce1680-ace5-11eb-8516-22af65141e11.png)
+![image](https://user-images.githubusercontent.com/81654604/117052058-43ce1680-ace5-11eb-8516-22af65141e11.png)
 
