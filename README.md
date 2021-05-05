@@ -42,10 +42,12 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 
 
 ## <b>Advanced View</b>
+Query 1
 ![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
+
+Query 2
 ![Query2](https://user-images.githubusercontent.com/37620953/117172926-43dc1e00-ad9a-11eb-937a-367e06746acb.png)
 
-![image](https://user-images.githubusercontent.com/81654604/117052058-43ce1680-ace5-11eb-8516-22af65141e11.png)
 
 ## <b>Report of Indexes</b>
 
