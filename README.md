@@ -42,10 +42,11 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 
 
 ## <b>Advanced View</b>
-Query 1
+<b>Query 1</b>
+
 ![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
 
-Query 2
+<b>Query 2</b>
 ![Query2](https://user-images.githubusercontent.com/37620953/117172926-43dc1e00-ad9a-11eb-937a-367e06746acb.png)
 
 
