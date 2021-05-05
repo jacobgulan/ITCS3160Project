@@ -48,7 +48,8 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 
 <b>Query 2</b>
 
-![Query2](https://user-images.githubusercontent.com/37620953/117173995-4e4ae780-ad9b-11eb-93e3-c3cb1b119221.png)
+![Query2](https://user-images.githubusercontent.com/37620953/117174955-4c355880-ad9c-11eb-8e5c-64463c3123ee.png)
+
 
 
 
