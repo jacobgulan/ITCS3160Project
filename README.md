@@ -45,3 +45,6 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 ![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
 ![image](https://user-images.githubusercontent.com/81654604/117052058-43ce1680-ace5-11eb-8516-22af65141e11.png)
 
+## <b>Report of Indexes</b>
+
+Our project's database consists of 13 unique tables each eventually having a relationship to the main table which is the order table. Six of these tables connect directly to the orders table. Each entry of the six tables has their own unique foreign key to link to the order table. Through the course of the project, our team examined and implemented optimizations to the database. The idea of query optimization is to be able to execute a SQL command as efficiently as possible. It is essential to avoid unncessary commands or keywords. For example, the use of the wildcard tag '%' is considered unoptimal. It is best to specify as precisely as possible what entry the database manager is looking for. As you can see in the 2 advanced view queries, we have optimal SQL command usage. Each of the indexes that were queried did not require the use of wildcard tags, inner joins, or unnecessary union clauses.
