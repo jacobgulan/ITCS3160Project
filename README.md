@@ -44,10 +44,12 @@ Using a test database from “Team Mavericks,” our group plans to enhance this
 ## <b>Advanced View</b>
 <b>Query 1</b>
 
-![Screenshot (153)](https://user-images.githubusercontent.com/81653751/116629373-11a46980-a91f-11eb-9bfe-1857ce8052e1.png)
+![Query1](https://user-images.githubusercontent.com/37620953/117174036-560a8c00-ad9b-11eb-83a7-c163d61df6f8.png)
 
 <b>Query 2</b>
-![Query2](https://user-images.githubusercontent.com/37620953/117173455-c9f86480-ad9a-11eb-8d36-96201a778e4f.png)
+
+![Query2](https://user-images.githubusercontent.com/37620953/117173995-4e4ae780-ad9b-11eb-93e3-c3cb1b119221.png)
+
 
 
 
